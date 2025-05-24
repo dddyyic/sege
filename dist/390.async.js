@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfabric_video_editor=self.webpackChunkfabric_video_editor||[]).push([[390],{96390:function(c,n,t){t.r(n),t.d(n,{default:function(){return o}});var d=t(67294),u=t(93578),e=t(85893);function o(){var E=(0,u.useOutletContext)();return(0,e.jsx)(u.Outlet,{context:E})}}}]);

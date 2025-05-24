@@ -1,0 +1,1806 @@
+[
+    {
+        "id": "track337yk6pz",
+        "track_type": "text",
+        "timeline_type": "heading",
+        "name": "主标题",
+        "visible": true,
+        "clips": [
+            {
+                "id": "clipza1qzpwr",
+                "scene_id": "scene_2",
+                "clip_type": "text",
+                "media": {
+                    "type": "text",
+                    "business_type": "caption",
+                    "text": "农业机车轮胎"
+                },
+                "x": 0.5003703703703704,
+                "y": 0.09166666666666666,
+                "width": 0.96,
+                "alignment": "Center",
+                "style": {
+                    "font": "DOUYU Font",
+                    "font_size": 48,
+                    "font_color": "#ffffff",
+                    "x": 0.5003703703703704,
+                    "y": 0.09166666666666666,
+                    "location": "middleTop",
+                    "alignment": "Center",
+                    "outline_colour": "#000000",
+                    "border_style": 1,
+                    "width": 0.96,
+                    "font_random": false,
+                    "shadow": 0
+                },
+                "timeline_in": 15.975312500000001,
+                "timeline_out": 32.132625000000004,
+                "duration": 16.157312500000003,
+                "visible": true
+            },
+            {
+                "id": "clip1c7ik51z",
+                "scene_id": "scene_3",
+                "clip_type": "text",
+                "media": {
+                    "type": "text",
+                    "business_type": "caption",
+                    "text": "欢迎关注"
+                },
+                "x": 0.5,
+                "y": 0.2,
+                "width": 0.96,
+                "alignment": "Center",
+                "style": {
+                    "font": "JiangChengXieHei-900W",
+                    "font_size": 32,
+                    "font_color": "#FFFFFF",
+                    "x": 0.5,
+                    "y": 0.2,
+                    "location": "middleTop",
+                    "alignment": "center",
+                    "outline_colour": "#000000",
+                    "border_style": "1",
+                    "width": 0.96,
+                    "font_random": false,
+                    "shadow": 0
+                },
+                "timeline_in": 32.132625000000004,
+                "timeline_out": 37.9380625,
+                "duration": 5.8054374999999965,
+                "visible": true
+            }
+        ]
+    },
+    {
+        "id": "trackvtg8q01z",
+        "track_type": "text",
+        "timeline_type": "subheading",
+        "name": "副标题",
+        "visible": true,
+        "clips": [
+            {
+                "id": "clipi5jmcpxf",
+                "scene_id": "scene_2",
+                "clip_type": "text",
+                "media": {
+                    "type": "text",
+                    "business_type": "caption",
+                    "text": "多种规格，适应各种地形"
+                },
+                "x": 0.5007407407407407,
+                "y": 0.2760416666666667,
+                "width": 0.96,
+                "alignment": "Center",
+                "style": {
+                    "font": "AlimamaShuHeiTi",
+                    "font_size": 36,
+                    "font_color": "#ffffff",
+                    "x": 0.5007407407407407,
+                    "y": 0.2760416666666667,
+                    "location": "middleTop",
+                    "alignment": "Center",
+                    "outline_colour": "#000000",
+                    "border_style": 1,
+                    "width": 0.96,
+                    "font_random": false,
+                    "shadow": 0
+                },
+                "timeline_in": 15.975312500000001,
+                "timeline_out": 32.132625000000004,
+                "duration": 16.157312500000003,
+                "visible": true
+            },
+            {
+                "id": "clipvbgyrkly",
+                "scene_id": "scene_3",
+                "clip_type": "text",
+                "media": {
+                    "type": "text",
+                    "business_type": "caption",
+                    "text": "振泰轮胎农用机车"
+                },
+                "x": 0.49611111111111106,
+                "y": 0.3494791666666667,
+                "width": 0.96,
+                "alignment": "Center",
+                "style": {
+                    "font": "WDCH-",
+                    "font_size": 32,
+                    "font_color": "#000000",
+                    "x": 0.49611111111111106,
+                    "y": 0.3494791666666667,
+                    "location": "middleTop",
+                    "alignment": "center",
+                    "outline_colour": "#FFE306",
+                    "outline": 2,
+                    "border_style": 3,
+                    "width": 0.96,
+                    "font_random": false,
+                    "font_id": 18,
+                    "shadow": 0
+                },
+                "timeline_in": 32.132625000000004,
+                "timeline_out": 37.9380625,
+                "duration": 5.8054374999999965,
+                "visible": true
+            }
+        ]
+    },
+    {
+        "id": "trackejuvqsnh",
+        "timeline_type": "scene",
+        "name": "镜头",
+        "visible": true,
+        "clips": [
+            {
+                "id": "clipdy2zuktc",
+                "clip_type": "shot",
+                "timeline_in": 0,
+                "timeline_out": 5.8264375,
+                "tracks": [
+                    {
+                        "id": "tracksxkbjcbq",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipqqz0pdjq",
+                                "scene_id": "scene_0",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "你的农机是否经常身陷泥潭"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 0.32,
+                                "timeline_out": 2.68,
+                                "duration": 2.3600000000000003,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipc9bi9uv8",
+                                "scene_id": "scene_0",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "打滑空转"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 2.68,
+                                "timeline_out": 3.56,
+                                "duration": 0.8799999999999999,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip44r8s8zo",
+                                "scene_id": "scene_0",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "选错轮胎"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 3.56,
+                                "timeline_out": 4.48,
+                                "duration": 0.9200000000000004,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipcah8f6fk",
+                                "scene_id": "scene_0",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "再好的机器也白搭"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 4.48,
+                                "timeline_out": 5.826,
+                                "duration": 1.3459999999999992,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_0_0",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_0_0",
+                                "scene_id": "scene_0",
+                                "shot_id": "shot_0",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "mediaId": "06b077c002e571f08371f6f6c7496302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 5.466667,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "media": null,
+                                    "avatar": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 0,
+                                "timeline_out": 5.8264375,
+                                "duration": 5.8264375,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "trackqv3vpolu",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipnpmkljrp",
+                                "clip_type": "audio",
+                                "duration": 5.8264375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/e/b/8/3/174416830967f5e575f3673.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/e/b/8/3/174416830967f5e575f3673.wav",
+                                    "duration": 5.8264375
+                                },
+                                "timeline_in": 0,
+                                "timeline_out": 5.8264375,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clip0oz7jayf",
+                "clip_type": "shot",
+                "timeline_in": 5.8264375,
+                "timeline_out": 10.148875,
+                "tracks": [
+                    {
+                        "id": "track2qnecpml",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clip59hoea1h",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "传统轮胎不耐磨"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 6.1064375,
+                                "timeline_out": 7.6664375,
+                                "duration": 1.56,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipo0umk6r1",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "寿命短更换频繁"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 7.6664375,
+                                "timeline_out": 9.1064375,
+                                "duration": 1.4399999999999997,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipqf31rjbg",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "费时又费钱"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 9.1064375,
+                                "timeline_out": 10.1484375,
+                                "duration": 1.0420000000000003,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_1_0",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_1_0",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_0",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "mediaId": "06b077c002e571f08371f6f6c7496302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 5.466667,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "avatar": "null",
+                                    "media": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 5.8264375,
+                                "timeline_out": 10.148875,
+                                "duration": 4.3224375,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "track0pcyutsu",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "cliplyundxm5",
+                                "clip_type": "audio",
+                                "duration": 4.3224375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/d/b/6/5/174409695767f4cebd042e0.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/d/b/6/5/174409695767f4cebd042e0.wav",
+                                    "duration": 4.3224375
+                                },
+                                "timeline_in": 5.8264375,
+                                "timeline_out": 10.148875,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clipp1z0q5b5",
+                "clip_type": "shot",
+                "timeline_in": 10.148875,
+                "timeline_out": 15.975312500000001,
+                "tracks": [
+                    {
+                        "id": "trackqa51ud5g",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipcobnwg58",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "轮胎抓地力不足"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 10.748875,
+                                "timeline_out": 12.228875,
+                                "duration": 1.48,
+                                "visible": true
+                            },
+                            {
+                                "id": "clippe7d8ios",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "导致作业效率低下"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 12.228875,
+                                "timeline_out": 13.828875,
+                                "duration": 1.6,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipfv54xka7",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "燃油消耗增加"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 13.828875,
+                                "timeline_out": 14.908875,
+                                "duration": 1.0799999999999996,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip7l5ivyy0",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "成本居高不下"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 14.908875,
+                                "timeline_out": 15.974875,
+                                "duration": 1.0659999999999998,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_1_1",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_1_1",
+                                "scene_id": "scene_1",
+                                "shot_id": "shot_1",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/3/c/5/5/工厂_3-1.mp4",
+                                    "mediaId": "52fc708002e471f0afdcf6e7c7496302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/3/c/5/5/工厂_3-1.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 4.4,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "avatar": "null",
+                                    "media": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 10.148875,
+                                "timeline_out": 15.975312500000001,
+                                "duration": 5.826437500000001,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "trackquyt8qqy",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipqmkok53m",
+                                "clip_type": "audio",
+                                "duration": 5.8264375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/8/1/3/5/174409695867f4cebe45472.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/8/1/3/5/174409695867f4cebe45472.wav",
+                                    "duration": 5.8264375
+                                },
+                                "timeline_in": 10.148875,
+                                "timeline_out": 15.975312500000001,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clip19uch1bb",
+                "clip_type": "shot",
+                "timeline_in": 15.975312500000001,
+                "timeline_out": 21.23675,
+                "tracks": [
+                    {
+                        "id": "trackks0d0h2s",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clip1lp5yfhb",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "农业机车轮胎规格齐全"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 16.3753125,
+                                "timeline_out": 18.4953125,
+                                "duration": 2.12,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipjk34vft2",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "从小型到大型"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 18.4953125,
+                                "timeline_out": 20.0153125,
+                                "duration": 1.52,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip49eje23u",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "满足各类农机需求"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 20.0153125,
+                                "timeline_out": 21.2363125,
+                                "duration": 1.221,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_2_0",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_2_0",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_0",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "mediaId": "06b077c002e571f08371f6f6c7496302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 5.466667,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "media": {
+                                        "width": 0.3,
+                                        "height": 0.3,
+                                        "x": 0.3336860638749856,
+                                        "y": 0.48511904694325797,
+                                        "zIndex": 1
+                                    },
+                                    "avatar": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 15.975312500000001,
+                                "timeline_out": 21.23675,
+                                "duration": 5.2614374999999995,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "trackqb5zsd4s",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clip1f8dlv0p",
+                                "clip_type": "audio",
+                                "duration": 5.2614375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/d/b/6/5/174409695767f4cebda36df.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/d/b/6/5/174409695767f4cebda36df.wav",
+                                    "duration": 5.2614375
+                                },
+                                "timeline_in": 15.975312500000001,
+                                "timeline_out": 21.23675,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clipguy4nou0",
+                "clip_type": "shot",
+                "timeline_in": 21.23675,
+                "timeline_out": 27.0631875,
+                "tracks": [
+                    {
+                        "id": "trackb4zm37vw",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipoqzyp8rt",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "双花纹设计"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 21.676750000000002,
+                                "timeline_out": 22.71675,
+                                "duration": 1.04,
+                                "visible": true
+                            },
+                            {
+                                "id": "cliphlhulcjk",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "平花和人字"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 22.71675,
+                                "timeline_out": 23.71675,
+                                "duration": 1,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip7kckoyd5",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "适应各种地形"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 23.71675,
+                                "timeline_out": 24.95675,
+                                "duration": 1.2400000000000002,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipfeqylc7r",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "抓地力更强"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 24.95675,
+                                "timeline_out": 26.23675,
+                                "duration": 1.2799999999999998,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipvkmoogvc",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "作业更高效"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 26.23675,
+                                "timeline_out": 27.06275,
+                                "duration": 0.8259999999999996,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_2_1",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_2_1",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_1",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "image",
+                                    "url": "https://cutteross.yidianke.com/1/1/e/8/54279708905_1408ca75fb_o.jpg",
+                                    "mediaId": "855f4ab002e071f08325e7f6d75a6301",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/1/1/e/8/54279708905_1408ca75fb_o.jpg",
+                                    "process_config_obj": [],
+                                    "duration": null,
+                                    "width": 1667,
+                                    "height": 2500
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "avatar": "null",
+                                    "media": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 21.23675,
+                                "timeline_out": 27.0631875,
+                                "duration": 5.826437500000001,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "trackltpxc9ci",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipcfxahqlb",
+                                "clip_type": "audio",
+                                "duration": 5.8264375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/d/b/6/5/174409695767f4cebd095f8.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/d/b/6/5/174409695767f4cebd095f8.wav",
+                                    "duration": 5.8264375
+                                },
+                                "timeline_in": 21.23675,
+                                "timeline_out": 27.0631875,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clipu6o5m399",
+                "clip_type": "shot",
+                "timeline_in": 27.0631875,
+                "timeline_out": 32.132625000000004,
+                "tracks": [
+                    {
+                        "id": "trackfs9ot4wx",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipp7hb4lid",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_3",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "一直无限结构"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 27.343187500000003,
+                                "timeline_out": 28.343187500000003,
+                                "duration": 1,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipaqjgxidi",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_3",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "耐磨性更强"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 28.343187500000003,
+                                "timeline_out": 29.523187500000002,
+                                "duration": 1.18,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipli96tfz0",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_3",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "使用寿命更长"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 29.543187500000002,
+                                "timeline_out": 30.9031875,
+                                "duration": 1.3599999999999999,
+                                "visible": true
+                            },
+                            {
+                                "id": "cliplyi0nzs9",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_3",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "省钱才是硬道理"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 30.9031875,
+                                "timeline_out": 32.1321875,
+                                "duration": 1.229,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_2_2",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_2_2",
+                                "scene_id": "scene_2",
+                                "shot_id": "shot_3",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "mediaId": "06b077c002e571f08371f6f6c7496302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/4/c/5/8/tiktok2_2-2.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 5.466667,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "avatar": "null",
+                                    "media": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 27.0631875,
+                                "timeline_out": 32.132625000000004,
+                                "duration": 5.069437500000003,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "tracknmffinly",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clipqiifl57r",
+                                "clip_type": "audio",
+                                "duration": 5.0694375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/8/1/3/5/174409695867f4cebea8ab8.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/8/1/3/5/174409695867f4cebea8ab8.wav",
+                                    "duration": 5.0694375
+                                },
+                                "timeline_in": 27.0631875,
+                                "timeline_out": 32.132625000000004,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": "clip0b5k8jpq",
+                "clip_type": "shot",
+                "timeline_in": 32.132625000000004,
+                "timeline_out": 37.9380625,
+                "tracks": [
+                    {
+                        "id": "trackn8k8cfho",
+                        "track_type": "text",
+                        "timeline_type": "subtitle",
+                        "name": "字幕",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clip7odd24zk",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "选择农业机车轮胎"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 32.612625,
+                                "timeline_out": 33.97262500000001,
+                                "duration": 1.36,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip0fco1pae",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "让你的农机如虎添翼"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 33.97262500000001,
+                                "timeline_out": 35.892625,
+                                "duration": 1.9199999999999997,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipb76dcb7a",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "告别打滑"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 35.892625,
+                                "timeline_out": 36.492625000000004,
+                                "duration": 0.6000000000000005,
+                                "visible": true
+                            },
+                            {
+                                "id": "clip5jg64w3x",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "提高效率"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 36.492625000000004,
+                                "timeline_out": 37.292625,
+                                "duration": 0.7999999999999998,
+                                "visible": true
+                            },
+                            {
+                                "id": "clipaugt32nf",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "subtitle",
+                                "media": {
+                                    "type": "text",
+                                    "business_type": "subtitle",
+                                    "text": "降低成本"
+                                },
+                                "x": 0.5,
+                                "y": 0.8,
+                                "width": 1,
+                                "alignment": "Center",
+                                "style": {
+                                    "font": "WDCH-",
+                                    "font_size": 24,
+                                    "font_color": "#fffb13",
+                                    "x": 0.5,
+                                    "y": 0.8,
+                                    "location": "middleTop",
+                                    "alignment": "Center",
+                                    "outline_colour": "#000000",
+                                    "outline": 2,
+                                    "border_style": 3,
+                                    "width": 1,
+                                    "font_random": false,
+                                    "font_id": 19,
+                                    "shadow": 0,
+                                    "visible": true
+                                },
+                                "timeline_in": 37.292625,
+                                "timeline_out": 37.937625000000004,
+                                "duration": 0.6449999999999996,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "group_track_3_0",
+                        "track_type": "video",
+                        "timeline_type": "group",
+                        "name": "镜头素材",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "group_clip_3_0",
+                                "scene_id": "scene_3",
+                                "shot_id": "shot_0",
+                                "clip_type": "video",
+                                "media": {
+                                    "type": "video",
+                                    "url": "https://cutteross.yidianke.com/c/c/2/9/tiktok2_4-1.mp4",
+                                    "mediaId": "a3050e0002e171f08328e7f6d75a6302",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/c/c/2/9/tiktok2_4-1.mp4",
+                                    "process_config_obj": [],
+                                    "duration": 2.733333,
+                                    "width": 1080,
+                                    "height": 1920
+                                },
+                                "avatar": {
+                                    "url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/a/5/6/9/174407547867f47ad638564.jpg",
+                                    "width": "404",
+                                    "height": "720",
+                                    "video_webm": "https://cutteross.yidianke.com/a/8/b/2/matted_portrait_lipsync_video_404x720.webm",
+                                    "type": "image"
+                                },
+                                "opacity": 100,
+                                "layout_style": {
+                                    "avatar": "null",
+                                    "media": {
+                                        "width": 1,
+                                        "height": 1,
+                                        "x": 0,
+                                        "y": 0,
+                                        "zIndex": 0
+                                    }
+                                },
+                                "timeline_in": 32.132625000000004,
+                                "timeline_out": 37.9380625,
+                                "duration": 5.8054374999999965,
+                                "visible": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": "trackmachm0ad",
+                        "track_type": "audio",
+                        "timeline_type": "voiceover",
+                        "name": "口播音频",
+                        "visible": true,
+                        "clips": [
+                            {
+                                "id": "clip7l3l297z",
+                                "clip_type": "audio",
+                                "duration": 5.8054375,
+                                "volume": 10,
+                                "media": {
+                                    "url": "https://cutteross.yidianke.com/c/0/1/d/174416572167f5db5979d08.wav",
+                                    "input_url": "http://qunjian.oss-cn-shanghai.aliyuncs.com/c/0/1/d/174416572167f5db5979d08.wav",
+                                    "duration": 5.8054375
+                                },
+                                "timeline_in": 32.132625000000004,
+                                "timeline_out": 37.9380625,
+                                "visible": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "trackwvs11db9",
+        "track_type": "audio",
+        "timeline_type": "bgm",
+        "name": "音乐",
+        "visible": true,
+        "clips": [
+            {
+                "id": "clipzy5isl6u",
+                "clip_type": "audio",
+                "duration": 37.9380625,
+                "timeline_in": 0,
+                "timeline_out": 37.9380625,
+                "volume": 6,
+                "media": {
+                    "input_url": "oss://ice-public-media-hz/public-bgm/bgm-relaxing/Breezy Melodies.wav",
+                    "url": "https://ice-pub-media.myalicdn.com/public-bgm/bgm-relaxing/Breezy%20Melodies.wav",
+                    "mediaId": "icepublic-64201dd433248abf98fd2cbb1ca3c8a6",
+                    "type": "audio",
+                    "duration": 0
+                },
+                "visible": true
+            }
+        ]
+    }
+]
